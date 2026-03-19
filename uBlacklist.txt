@@ -1,1 +1,3 @@
 *://*.csdn.net/*
+@*://*.deepseek.com/*
+@*://baike.baidu.com/*
