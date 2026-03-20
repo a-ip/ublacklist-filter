@@ -4,13 +4,13 @@
 *://*.csdn.net/*
 
 // 汉语方言维基百科
-cdo.wikipedia.org/*
-gan.wikipedia.org/*
-hak.wikipedia.org/*
-wuu.wikipedia.org/*
-zh-classical.wikipedia.org/*
-zh-min-nan.wikipedia.org/*
-zh-yue.wikipedia.org/*
+*://cdo.wikipedia.org/*
+*://gan.wikipedia.org/*
+*://hak.wikipedia.org/*
+*://wuu.wikipedia.org/*
+*://zh-classical.wikipedia.org/*
+*://zh-min-nan.wikipedia.org/*
+*://zh-yue.wikipedia.org/*
 
 # 解除屏蔽网站
 @*://*.deepseek.com/*
