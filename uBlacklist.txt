@@ -1,9 +1,9 @@
 # 屏蔽网站
 
-// 中文垃圾信息网站
+## 中文垃圾信息网站
 *://*.csdn.net/*
 
-// 汉语方言维基百科
+## 汉语方言维基百科
 *://cdo.wikipedia.org/*
 *://gan.wikipedia.org/*
 *://hak.wikipedia.org/*
