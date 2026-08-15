@@ -12,6 +12,14 @@
 *://zh-min-nan.wikipedia.org/*
 *://zh-yue.wikipedia.org/*
 
+## 过时的 Fandom 页面
+*://minecraft.fandom.com/*
+*://zelda.fandom.com/*
+*://terraria.fandom.com/*
+*://hollowknight.fandom.com/*
+*://gta.fandom.com/*
+
+
 # 解除屏蔽网站
 @*://*.deepseek.com/*
 @*://baike.baidu.com/*
