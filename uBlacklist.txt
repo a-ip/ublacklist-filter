@@ -23,3 +23,4 @@
 # 解除屏蔽网站
 @*://*.deepseek.com/*
 @*://baike.baidu.com/*
+@*://*.z.ai/*
