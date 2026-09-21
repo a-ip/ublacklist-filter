@@ -19,8 +19,9 @@
 *://hollowknight.fandom.com/*
 *://gta.fandom.com/*
 
+## 其他垃圾网站
+*://*.apkpure.com/*
 
 # 解除屏蔽网站
 @*://*.deepseek.com/*
 @*://baike.baidu.com/*
-@*://*.z.ai/*
